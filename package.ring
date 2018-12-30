@@ -38,7 +38,7 @@ aPackageInfo = [
 		"extensions/ringopengl/opengl32/ring_opengl32.c",
 		"extensions/ringopengl/opengl32/ring_opengl32.rh",
 		"extensions/ringopengl/opengl32/test.ring",
-		"ring2exe/libs/opengl.ring"
+		"ring2exe/libs/opengl32.ring"
 	],
 	:windowsfiles = 	[
 
