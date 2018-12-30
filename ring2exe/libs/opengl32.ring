@@ -1,5 +1,5 @@
-aLibrary = [:name = :opengl ,
-	 :title = "RingOpenGL",
+aLibrary = [:name = :opengl32 ,
+	 :title = "RingOpenGL32",
 	 :windowsfiles = [
 			"ring_opengl32.dll"
 	 ],
